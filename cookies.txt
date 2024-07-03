@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.edublink.co	TRUE	/	FALSE	1999999999	wp_woocommerce_session_872e5d62980015b81acd600d71db0aa2	t_9bdb49a5de7a7f4ca29b03df529186%7C%7C1720173555%7C%7C1720169955%7C%7C1b7f9cc6118939199e160cfcd15ec13b
+demo.edublink.co	TRUE	/	FALSE	1999999999	lp_session_guest	g-66852198b6aeb
+demo.edublink.co	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+demo.edublink.co	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	9e2c869460642f1c8a220b71adb12be4
+

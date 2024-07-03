@@ -1,0 +1,491 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Jul 2024 15:05:49 at https://demo.edublink.co/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.edublink.co/ -O1 "D:\demo" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:14:04	Error: 	"Not Found" (404) at link https://demo.edublink.co/404 (from https://demo.edublink.co/)
+15:17:46	Error: 	"Not Found" (404) at link https://demo.edublink.co/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.eot?c3wvz6 (from https://demo.edublink.co/wp-content/cache/min/1/wp-content/plugins/wp-events-manager/assets/css/frontend/events.min.css?ver=1719389490)
+15:17:46	Error: 	"Not Found" (404) at link https://demo.edublink.co/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.ttf?c3wvz6 (from https://demo.edublink.co/wp-content/cache/min/1/wp-content/plugins/wp-events-manager/assets/css/frontend/events.min.css?ver=1719389490)
+15:17:46	Error: 	"Not Found" (404) at link https://demo.edublink.co/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.woff?c3wvz6 (from https://demo.edublink.co/wp-content/cache/min/1/wp-content/plugins/wp-events-manager/assets/css/frontend/events.min.css?ver=1719389490)
+15:17:46	Error: 	"Not Found" (404) at link https://demo.edublink.co/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.svg?c3wvz6 (from https://demo.edublink.co/wp-content/cache/min/1/wp-content/plugins/wp-events-manager/assets/css/frontend/events.min.css?ver=1719389490)
+15:17:47	Error: 	"Not Found" (404) at link https://demo.edublink.co/wp-content/themes/edublink/assets/images/icons/search.svg (from https://demo.edublink.co/wp-content/cache/min/1/wp-content/themes/edublink/assets/css/woocommerce.css?ver=1719389490)
+15:17:49	Warning: 	Moved Permanently for https://demo.edublink.co/?p=1233
+15:17:49	Warning: 	File has moved from https://demo.edublink.co/?p=1233 to https://demo.edublink.co/distant-learning/
+15:17:57	Warning: 	Moved Permanently for https://demo.edublink.co/?p=1743
+15:17:57	Warning: 	File has moved from https://demo.edublink.co/?p=1743 to https://demo.edublink.co/university/
+15:18:21	Warning: 	Moved Permanently for https://demo.edublink.co/?p=1840
+15:18:21	Warning: 	File has moved from https://demo.edublink.co/?p=1840 to https://demo.edublink.co/online-academy/
+15:18:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9330
+15:18:40	Warning: 	File has moved from https://demo.edublink.co/?p=9330 to https://demo.edublink.co/modern-schooling/
+15:19:14	Warning: 	Moved Permanently for https://demo.edublink.co/?p=13482
+15:19:14	Warning: 	File has moved from https://demo.edublink.co/?p=13482 to https://demo.edublink.co/kitchen-coach/
+15:19:59	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9450
+15:19:59	Warning: 	File has moved from https://demo.edublink.co/?p=9450 to https://demo.edublink.co/yoga-instructor/
+15:20:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9580
+15:20:26	Warning: 	File has moved from https://demo.edublink.co/?p=9580 to https://demo.edublink.co/kindergarten/
+15:21:13	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9623
+15:21:13	Warning: 	File has moved from https://demo.edublink.co/?p=9623 to https://demo.edublink.co/language-academy/
+15:21:37	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9713
+15:21:37	Warning: 	File has moved from https://demo.edublink.co/?p=9713 to https://demo.edublink.co/remote-training/
+15:21:56	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9684
+15:21:56	Warning: 	File has moved from https://demo.edublink.co/?p=9684 to https://demo.edublink.co/business-coach/
+15:22:14	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9801
+15:22:14	Warning: 	File has moved from https://demo.edublink.co/?p=9801 to https://demo.edublink.co/motivation/
+15:22:50	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9834
+15:22:50	Warning: 	File has moved from https://demo.edublink.co/?p=9834 to https://demo.edublink.co/programming/
+15:23:04	Warning: 	Moved Permanently for https://demo.edublink.co/?p=9836
+15:23:04	Warning: 	File has moved from https://demo.edublink.co/?p=9836 to https://demo.edublink.co/online-art/
+15:23:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10081
+15:23:26	Warning: 	File has moved from https://demo.edublink.co/?p=10081 to https://demo.edublink.co/sales-coach/
+15:23:48	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10111
+15:23:48	Warning: 	File has moved from https://demo.edublink.co/?p=10111 to https://demo.edublink.co/quran-learning/
+15:24:55	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10137
+15:24:55	Warning: 	File has moved from https://demo.edublink.co/?p=10137 to https://demo.edublink.co/gym-training/
+15:25:30	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10265
+15:25:30	Warning: 	File has moved from https://demo.edublink.co/?p=10265 to https://demo.edublink.co/about-us-1/
+15:25:31	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10337
+15:25:31	Warning: 	File has moved from https://demo.edublink.co/?p=10337 to https://demo.edublink.co/about-us-2/
+15:25:31	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10364
+15:25:31	Warning: 	File has moved from https://demo.edublink.co/?p=10364 to https://demo.edublink.co/about-us-3/
+15:25:31	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10409
+15:25:31	Warning: 	File has moved from https://demo.edublink.co/?p=10409 to https://demo.edublink.co/instructor-1/
+15:25:31	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10425
+15:25:31	Warning: 	File has moved from https://demo.edublink.co/?p=10425 to https://demo.edublink.co/instructor-2/
+15:25:31	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10438
+15:25:31	Warning: 	File has moved from https://demo.edublink.co/?p=10438 to https://demo.edublink.co/instructor-3/
+15:25:35	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10978
+15:25:35	Warning: 	File has moved from https://demo.edublink.co/?p=10978 to https://demo.edublink.co/instructor-details/
+15:25:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=16557
+15:25:40	Warning: 	File has moved from https://demo.edublink.co/?p=16557 to https://demo.edublink.co/event-style-1/
+15:25:47	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14314
+15:25:47	Warning: 	File has moved from https://demo.edublink.co/?p=14314 to https://demo.edublink.co/events/creative-teaching-seminar/
+15:26:50	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15073
+15:26:50	Warning: 	File has moved from https://demo.edublink.co/?p=15073 to https://demo.edublink.co/product/book-demo-a/
+15:26:55	Warning: 	Moved Permanently for https://demo.edublink.co//product/
+15:26:55	Warning: 	Redirected link is identical because of 'URL Hack' option: https://demo.edublink.co//product/ and https://demo.edublink.co/product/
+15:26:55	Warning: 	File has moved from https://demo.edublink.co//product/ to https://demo.edublink.co/product/
+15:27:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=23
+15:27:08	Warning: 	File has moved from https://demo.edublink.co/?p=23 to https://demo.edublink.co/my-account/
+15:27:09	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15112
+15:27:09	Warning: 	File has moved from https://demo.edublink.co/?p=15112 to https://demo.edublink.co/zoom-meetings/developing-your-intelligence/
+15:27:25	Warning: 	Moved Permanently for https://demo.edublink.co/?p=11511
+15:27:25	Warning: 	File has moved from https://demo.edublink.co/?p=11511 to https://demo.edublink.co/faqs/
+15:27:32	Warning: 	Moved Permanently for https://demo.edublink.co/?p=11533
+15:27:32	Warning: 	File has moved from https://demo.edublink.co/?p=11533 to https://demo.edublink.co/pricing-table/
+15:27:38	Warning: 	Moved Permanently for https://demo.edublink.co/?p=11142
+15:27:38	Warning: 	File has moved from https://demo.edublink.co/?p=11142 to https://demo.edublink.co/privacy-policy/
+15:27:44	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10789
+15:27:44	Warning: 	File has moved from https://demo.edublink.co/?p=10789 to https://demo.edublink.co/coming-soon/
+15:28:38	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12817
+15:28:38	Warning: 	File has moved from https://demo.edublink.co/?p=12817 to https://demo.edublink.co/courses/starting-seo-as-your-home-based-business/
+15:28:48	Error: 	"Bad Request" (400) at link https://demo.edublink.co/wp-admin/admin-ajax.php?action=rest-nonce (from https://demo.edublink.co/courses/starting-seo-as-your-home-based-business/?course_details=1)
+15:28:48	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14866
+15:28:48	Warning: 	File has moved from https://demo.edublink.co/?p=14866 to https://demo.edublink.co/course-filter-sidebar-left/
+15:28:56	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14923
+15:28:56	Warning: 	File has moved from https://demo.edublink.co/?p=14923 to https://demo.edublink.co/course-filter-sidebar-right/
+15:29:02	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14929
+15:29:02	Warning: 	File has moved from https://demo.edublink.co/?p=14929 to https://demo.edublink.co/course-filter-category/
+15:29:42	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15416
+15:29:42	Warning: 	File has moved from https://demo.edublink.co/?p=15416 to https://demo.edublink.co/exploring-learning-landscapes-in-academic-alcove/
+15:29:42	Error: 	"Method Not Allowed" (405) at link https://demo.edublink.co/xmlrpc.php (from https://demo.edublink.co/exploring-learning-landscapes-in-academic-alcove/)
+15:29:42	Error: 	"Not Found" (404) at link https://demo.edublink.co/author/ (from https://demo.edublink.co/exploring-learning-landscapes-in-academic-alcove/)
+15:29:43	Warning: 	Moved Permanently for https://demo.edublink.co/?p=17213
+15:29:43	Warning: 	File has moved from https://demo.edublink.co/?p=17213 to https://demo.edublink.co/contact-us/
+15:29:43	Warning: 	Moved Permanently for https://demo.edublink.co/?p=17330
+15:29:43	Warning: 	File has moved from https://demo.edublink.co/?p=17330 to https://demo.edublink.co/contact-me/
+15:29:43	Warning: 	Moved Permanently for https://demo.edublink.co/?p=13476
+15:29:43	Warning: 	File has moved from https://demo.edublink.co/?p=13476 to https://demo.edublink.co/cart/
+15:31:07	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12798
+15:31:07	Warning: 	File has moved from https://demo.edublink.co/?p=12798 to https://demo.edublink.co/courses/grow-personal-financial-security-thinking-principles/
+15:31:12	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12782
+15:31:12	Warning: 	File has moved from https://demo.edublink.co/?p=12782 to https://demo.edublink.co/courses/the-complete-guide-to-build-restful-api-application/
+15:31:12	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12768
+15:31:12	Warning: 	File has moved from https://demo.edublink.co/?p=12768 to https://demo.edublink.co/courses/competitive-strategy-law-for-management-consultants/
+15:31:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15409
+15:31:15	Warning: 	File has moved from https://demo.edublink.co/?p=15409 to https://demo.edublink.co/crafting-effective-learning-paths-at-curriculum-corner/
+15:31:21	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15421
+15:31:21	Warning: 	File has moved from https://demo.edublink.co/?p=15421 to https://demo.edublink.co/voices-from-the-learning-education-hub/
+15:31:33	Warning: 	Moved Permanently for https://demo.edublink.co/?p=11086
+15:31:33	Warning: 	File has moved from https://demo.edublink.co/?p=11086 to https://demo.edublink.co/purchase-guide/
+15:31:33	Warning: 	Moved Permanently for https://demo.edublink.co/?p=11909
+15:31:33	Warning: 	File has moved from https://demo.edublink.co/?p=11909 to https://demo.edublink.co/gallery-grid/
+15:31:36	Error: 	"Not Found" (404) at link https://demo.edublink.co/wp-content/plugins/edublink-core/assets/images/animate-text-2-bg-1.png (from https://demo.edublink.co/wp-content/cache/min/1/wp-content/plugins/edublink-core/assets/css/edublink-core-main.css?ver=1719389490)
+15:31:42	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12709
+15:31:42	Warning: 	File has moved from https://demo.edublink.co/?p=12709 to https://demo.edublink.co/courses/web-development-masterclass-certifications/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12679
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=12679 to https://demo.edublink.co/courses/advanced-java-programming-with-eclipse/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15384
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=15384 to https://demo.edublink.co/events/digital-arts-reshaping-the-future-with-ai/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15386
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=15386 to https://demo.edublink.co/events/online-presentation-on-powerpoint-2024/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12623
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=12623 to https://demo.edublink.co/courses/the-authentic-confidence-and-self-esteem-masterclass/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15380
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=15380 to https://demo.edublink.co/events/learn-english-in-ease/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19055
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=19055 to https://demo.edublink.co/events/navigating-the-future-of-business-education/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15423
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=15423 to https://demo.edublink.co/shaping-future-generations-with-pedagogy-perspectives/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12723
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=12723 to https://demo.edublink.co/courses/educating-through-christ-to-learn-and-to-serve/
+15:31:45	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15587
+15:31:45	Warning: 	File has moved from https://demo.edublink.co/?p=15587 to https://demo.edublink.co/speak-like-a-native-american/
+15:32:10	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15595
+15:32:10	Warning: 	File has moved from https://demo.edublink.co/?p=15595 to https://demo.edublink.co/discover-the-secrets-to-sustainable-fitness/
+15:32:10	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15600
+15:32:10	Warning: 	File has moved from https://demo.edublink.co/?p=15600 to https://demo.edublink.co/a-culinary-adventure-for-your-taste-buds/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15604
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=15604 to https://demo.edublink.co/starting-seo-as-your-home-based-business-policy/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14069
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14069 to https://demo.edublink.co/courses/cooking-healthy-sushi-roll-japanese-popular-cooking-class/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14089
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14089 to https://demo.edublink.co/courses/nutrition-kitchen-basics-of-cooking-for-busy-people/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14112
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14112 to https://demo.edublink.co/courses/vegan-thai-cooking-classes-popular-vegan-recipes/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19306
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=19306 to https://demo.edublink.co/essential-kitchen-skills-for-aspiring-chefs/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19305
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=19305 to https://demo.edublink.co/your-passport-to-home-cooking-mastery/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19304
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=19304 to https://demo.edublink.co/a-kitchen-training-blog-for-home-cooks/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14133
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14133 to https://demo.edublink.co/courses/online-yoga-for-beginners/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14132
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14132 to https://demo.edublink.co/courses/super-brain-yoga/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14134
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14134 to https://demo.edublink.co/courses/chair-yoga-for-seniors/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14135
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14135 to https://demo.edublink.co/courses/yoga-for-back-pain-relief/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14218
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14218 to https://demo.edublink.co/courses/the-ultimate-drawing-course-beginner-to-advanced/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14217
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14217 to https://demo.edublink.co/courses/powerful-calming-techniques-for-kids-and-teens/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14216
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=14216 to https://demo.edublink.co/courses/parenting-skills-to-raise-responsible-children/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18489
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=18489 to https://demo.edublink.co/events/caterpillars-to-butterflies/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18487
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=18487 to https://demo.edublink.co/events/annual-music-conference/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18488
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=18488 to https://demo.edublink.co/events/garden-camping-party/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18490
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=18490 to https://demo.edublink.co/events/animal-petting-party/
+15:32:15	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18502
+15:32:15	Warning: 	File has moved from https://demo.edublink.co/?p=18502 to https://demo.edublink.co/do-you-play-well-with-other-children/
+15:32:16	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18501
+15:32:16	Warning: 	File has moved from https://demo.edublink.co/?p=18501 to https://demo.edublink.co/early-history-of-the-united-states/
+15:32:16	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18500
+15:32:16	Warning: 	File has moved from https://demo.edublink.co/?p=18500 to https://demo.edublink.co/what-collecting-baseball-cards-taught-me/
+15:32:16	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15427
+15:32:16	Warning: 	File has moved from https://demo.edublink.co/?p=15427 to https://demo.edublink.co/fostering-student-growth-through-mindful-mentoring/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15429
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=15429 to https://demo.edublink.co/connecting-the-dots-in-education-with-learning-nexus/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18471
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=18471 to https://demo.edublink.co/balancing-profitability-and-integrity-in-sales/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12660
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=12660 to https://demo.edublink.co/courses/ultimate-aws-certified-cloud-practitioner-2023/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12612
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=12612 to https://demo.edublink.co/courses/master-course-in-social-media-marketing-latest-hacks/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15610
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=15610 to https://demo.edublink.co/igniting-your-inner-fire-for-success/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12688
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=12688 to https://demo.edublink.co/courses/the-complete-python-bootcamp-from-zero-to-hero/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15642
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=15642 to https://demo.edublink.co/courses/digital-marketing-professional-training-program/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19059
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=19059 to https://demo.edublink.co/events/trends-and-transformations-in-business-education/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15389
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=15389 to https://demo.edublink.co/events/global-education-fall-meeting-for-everyone/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14562
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14562 to https://demo.edublink.co/courses/how-to-end-procrastination-once-and-for-all/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14561
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14561 to https://demo.edublink.co/courses/the-complete-daily-positive-habits-building-course/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14560
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14560 to https://demo.edublink.co/courses/unstoppable-self-confidence-your-key-to-success/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14559
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14559 to https://demo.edublink.co/courses/conquer-your-mind-to-assign-empowering-meanings/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14558
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14558 to https://demo.edublink.co/courses/motivation-mastery-how-to-get-motivated-fast/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14641
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14641 to https://demo.edublink.co/courses/build-self-control-good-habits/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12635
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=12635 to https://demo.edublink.co/courses/getting-started-with-php-and-mysql-for-beginners/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15425
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=15425 to https://demo.edublink.co/stories-from-the-educational-front-at-classroom/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14368
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14368 to https://demo.edublink.co/courses/how-to-draw-from-beginner-to-master/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14366
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14366 to https://demo.edublink.co/courses/the-ultimate-digital-painting-course-master-class/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14365
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=14365 to https://demo.edublink.co/courses/anime-academy-characters-and-illustrations/
+15:32:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12734
+15:32:22	Warning: 	File has moved from https://demo.edublink.co/?p=12734 to https://demo.edublink.co/courses/learning-how-to-write-as-a-professional-author/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18477
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=18477 to https://demo.edublink.co/how-to-handle-common-sales-challenges/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18479
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=18479 to https://demo.edublink.co/maximizing-your-sales-potential-tips/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14435
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=14435 to https://demo.edublink.co/courses/noorani-qaida-for-adults/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14434
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=14434 to https://demo.edublink.co/courses/quran-with-tajweed/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14433
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=14433 to https://demo.edublink.co/courses/memorize-quran/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14432
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=14432 to https://demo.edublink.co/courses/ijazah-course-for-kids/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14431
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=14431 to https://demo.edublink.co/courses/quran-translation/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14430
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=14430 to https://demo.edublink.co/courses/learn-prayersalat/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18438
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=18438 to https://demo.edublink.co/arabic-assalamu-alayka-naat-ya-rasoolallah/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18449
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=18449 to https://demo.edublink.co/fasting-in-ramadan-excellence-and-how-tos/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=18451
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=18451 to https://demo.edublink.co/10-useful-tips-to-make-ramadan-even-better/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=16679
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=16679 to https://demo.edublink.co/courses/how-to-launch-a-successful-gym-business/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=16684
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=16684 to https://demo.edublink.co/courses/the-complete-fitness-trainer-certification/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=16683
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=16683 to https://demo.edublink.co/courses/essentials-of-sports-nutrition-bodybuilding-supplements/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=16682
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=16682 to https://demo.edublink.co/courses/create-a-successful-personal-training-career/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=16681
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=16681 to https://demo.edublink.co/courses/start-a-fitness-personal-trainer-business/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=16680
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=16680 to https://demo.edublink.co/courses/create-your-online-brand-as-a-fitness-trainer/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12754
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=12754 to https://demo.edublink.co/courses/machine-learning-a-z-hands-on-python-and-java/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15382
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=15382 to https://demo.edublink.co/events/london-international-conference-webinar/
+15:32:23	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15383
+15:32:23	Warning: 	File has moved from https://demo.edublink.co/?p=15383 to https://demo.edublink.co/events/explorations-of-new-approaches-works/
+15:32:29	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14310
+15:32:29	Warning: 	File has moved from https://demo.edublink.co/?p=14310 to https://demo.edublink.co/user-login/
+15:32:39	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15086
+15:32:39	Warning: 	File has moved from https://demo.edublink.co/?p=15086 to https://demo.edublink.co/product/book-demo-b/
+15:32:39	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c&_wpnonce=fea460b0a7
+15:32:39	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:39	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15087
+15:32:39	Warning: 	File has moved from https://demo.edublink.co/?p=15087 to https://demo.edublink.co/product/book-demo-c/
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15088
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15088 to https://demo.edublink.co/product/book-demo-d/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=6483a599028c6f20aa6f40c3b507420d&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=6483a599028c6f20aa6f40c3b507420d&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15089
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15089 to https://demo.edublink.co/product/book-demo-e/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=af070abdf5156acd363fca2b6f391ace&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=af070abdf5156acd363fca2b6f391ace&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15090
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15090 to https://demo.edublink.co/product/book-demo-f/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=0f2cdab3b6cd72058596bab972897f61&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=0f2cdab3b6cd72058596bab972897f61&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15091
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15091 to https://demo.edublink.co/product/book-demo-g/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=21f08cc6cfc56fdbeade7c9d8bd78aa1&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=21f08cc6cfc56fdbeade7c9d8bd78aa1&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15092
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15092 to https://demo.edublink.co/product/book-demo-h/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=fa522ede9e820bba27b3656fa5209cdf&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=fa522ede9e820bba27b3656fa5209cdf&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15093
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15093 to https://demo.edublink.co/product/book-demo-i/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=5989623d658b2227cb4e6758437704ac&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=5989623d658b2227cb4e6758437704ac&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15095
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15095 to https://demo.edublink.co/product/book-demo-j/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=b165bafed6172152a6eff6fa40b09353&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=b165bafed6172152a6eff6fa40b09353&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15096
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15096 to https://demo.edublink.co/product/book-demo-k/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=07193c44ba3be8df1f67e96110c2006e&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=07193c44ba3be8df1f67e96110c2006e&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:32:40	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15098
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/?p=15098 to https://demo.edublink.co/product/book-demo-l/
+15:32:40	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=a3782ef3356e45ba3e6fa056fd2a8ce4&_wpnonce=fea460b0a7
+15:32:40	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=a3782ef3356e45ba3e6fa056fd2a8ce4&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/?removed_item=1
+15:33:47	Warning: 	Moved Permanently for https://demo.edublink.co/shop/page/1/
+15:33:47	Warning: 	File has moved from https://demo.edublink.co/shop/page/1/ to https://demo.edublink.co/shop/
+15:35:22	Error: 	"Not Found" (404) at link https://demo.edublink.co/instructor/ (from https://demo.edublink.co/instructor/uetelew57nrop/)
+15:35:22	Warning: 	Moved Permanently for https://demo.edublink.co/?p=10
+15:35:22	Warning: 	File has moved from https://demo.edublink.co/?p=10 to https://demo.edublink.co/instructor/
+15:35:24	Warning: 	Moved Permanently for https://demo.edublink.co/course-filter-sidebar-left/page/1/
+15:35:24	Warning: 	File has moved from https://demo.edublink.co/course-filter-sidebar-left/page/1/ to https://demo.edublink.co/course-filter-sidebar-left/
+15:35:25	Warning: 	Moved Permanently for https://demo.edublink.co/course-filter-sidebar-right/page/1/
+15:35:25	Warning: 	File has moved from https://demo.edublink.co/course-filter-sidebar-right/page/1/ to https://demo.edublink.co/course-filter-sidebar-right/
+15:35:25	Warning: 	Moved Permanently for https://demo.edublink.co/?p=12649
+15:35:25	Warning: 	File has moved from https://demo.edublink.co/?p=12649 to https://demo.edublink.co/courses/deploy-java-spring-apps-online-to-amazon-cloud/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=13941
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=13941 to https://demo.edublink.co/courses/diet-and-nutrition-coach-certification/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=13983
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=13983 to https://demo.edublink.co/courses/powerful-thing-you-have-self-coaching-scholars/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14006
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=14006 to https://demo.edublink.co/courses/health-and-nutrition-life-coach-certification/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14008
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=14008 to https://demo.edublink.co/courses/keto-nutrition-health-coach-master-class/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14007
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=14007 to https://demo.edublink.co/courses/how-to-transform-your-health-change-life/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15641
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=15641 to https://demo.edublink.co/courses/launch-your-digital-marketing-agency/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15640
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=15640 to https://demo.edublink.co/courses/digital-marketing-hacking-with-ai/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15639
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=15639 to https://demo.edublink.co/courses/automate-digital-marketing-social-media/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15638
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=15638 to https://demo.edublink.co/courses/how-to-start-grow-your-own-digital-agency/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15637
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=15637 to https://demo.edublink.co/courses/the-seven-figure-agency-roadmap/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14278
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=14278 to https://demo.edublink.co/courses/the-complete-camtasia-course-for-content/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14279
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=14279 to https://demo.edublink.co/courses/the-ultimate-photography-course-for-beginners/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14277
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=14277 to https://demo.edublink.co/courses/the-ultimate-guide-to-freelance-photography/
+15:35:34	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14341
+15:35:34	Warning: 	File has moved from https://demo.edublink.co/?p=14341 to https://demo.edublink.co/courses/creative-thinking-for-great-photography/
+15:35:37	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15589
+15:35:37	Warning: 	File has moved from https://demo.edublink.co/?p=15589 to https://demo.edublink.co/unlock-your-potential-with-powerful-fitness-tips/
+15:35:37	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15597
+15:35:37	Warning: 	File has moved from https://demo.edublink.co/?p=15597 to https://demo.edublink.co/maximize-your-workouts-with-proven-strategies/
+15:35:37	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15612
+15:35:37	Warning: 	File has moved from https://demo.edublink.co/?p=15612 to https://demo.edublink.co/unleashing-potential-through-ambition/
+15:35:37	Warning: 	Moved Permanently for https://demo.edublink.co/?p=13961
+15:35:37	Warning: 	File has moved from https://demo.edublink.co/?p=13961 to https://demo.edublink.co/courses/how-to-make-simple-plant-based-meals/
+15:35:41	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15580
+15:35:41	Warning: 	File has moved from https://demo.edublink.co/?p=15580 to https://demo.edublink.co/fueling-your-body-for-success-a-nutrition-guide/
+15:35:41	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15583
+15:35:41	Warning: 	File has moved from https://demo.edublink.co/?p=15583 to https://demo.edublink.co/discover-the-power-of-nutrient-rich-foods/
+15:35:41	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15577
+15:35:41	Warning: 	File has moved from https://demo.edublink.co/?p=15577 to https://demo.edublink.co/boost-your-well-being-through-smart-food-choices-2/
+15:35:41	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15585
+15:35:41	Warning: 	File has moved from https://demo.edublink.co/?p=15585 to https://demo.edublink.co/nourish-your-body-nourish-your-life/
+15:35:41	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15602
+15:35:41	Warning: 	File has moved from https://demo.edublink.co/?p=15602 to https://demo.edublink.co/delightful-dishes-cooked-from-scratch/
+15:35:41	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15592
+15:35:41	Warning: 	File has moved from https://demo.edublink.co/?p=15592 to https://demo.edublink.co/elevate-your-strength-and-stamina-naturally/
+15:36:18	Warning: 	Moved Permanently for https://demo.edublink.co/?p=14309
+15:36:18	Warning: 	File has moved from https://demo.edublink.co/?p=14309 to https://demo.edublink.co/user-register/
+15:36:18	Warning: 	Moved Permanently for https://demo.edublink.co/?p=13477
+15:36:18	Warning: 	File has moved from https://demo.edublink.co/?p=13477 to https://demo.edublink.co/checkout/
+15:36:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=882137f311c5728f8e257e56820af92c&_wpnonce=fea460b0a7
+15:36:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=882137f311c5728f8e257e56820af92c&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=3dba880b99f7157c9f362be445a56493
+15:36:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=6483a599028c6f20aa6f40c3b507420d&_wpnonce=fea460b0a7
+15:36:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=6483a599028c6f20aa6f40c3b507420d&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=af070abdf5156acd363fca2b6f391ace&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=af070abdf5156acd363fca2b6f391ace&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=0f2cdab3b6cd72058596bab972897f61&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=0f2cdab3b6cd72058596bab972897f61&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=fa522ede9e820bba27b3656fa5209cdf&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=fa522ede9e820bba27b3656fa5209cdf&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=b165bafed6172152a6eff6fa40b09353&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=b165bafed6172152a6eff6fa40b09353&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=07193c44ba3be8df1f67e96110c2006e&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=07193c44ba3be8df1f67e96110c2006e&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=a3782ef3356e45ba3e6fa056fd2a8ce4&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=a3782ef3356e45ba3e6fa056fd2a8ce4&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=882137f311c5728f8e257e56820af92c
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15099
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15099 to https://demo.edublink.co/product/book-demo-m/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15100
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15100 to https://demo.edublink.co/product/book-demo-n/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=845ce31b9cf79c9aad515d0209881a3c&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=845ce31b9cf79c9aad515d0209881a3c&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15101
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15101 to https://demo.edublink.co/product/book-demo-o/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=0bbfd30c6d7efe2fff86061e79c010db&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=0bbfd30c6d7efe2fff86061e79c010db&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15102
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15102 to https://demo.edublink.co/product/book-demo-p/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=575dc1140c7f125454530f5541b003e1&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=575dc1140c7f125454530f5541b003e1&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15103
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15103 to https://demo.edublink.co/product/book-demo-q/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=a3cdf7cabc49ea4612b126ae2a30ecbf&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=a3cdf7cabc49ea4612b126ae2a30ecbf&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15104
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15104 to https://demo.edublink.co/product/book-demo-r/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=c131278e28b4703f6466a4bdf0fa863e&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=c131278e28b4703f6466a4bdf0fa863e&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15105
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15105 to https://demo.edublink.co/product/book-demo-s/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=b72809a20c3f308b5631168203e1c5ec&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=b72809a20c3f308b5631168203e1c5ec&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15108
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/?p=15108 to https://demo.edublink.co/product/book-demo-t/
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=c441b7798fc290a8dd307ef9cc698aa9&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=c441b7798fc290a8dd307ef9cc698aa9&_wpnonce=fea460b0a7 to http://demo.edublink.co/shop/page/2/?removed_item=1
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=a122a3441dd463a8360ca951ef45f98a&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=a122a3441dd463a8360ca951ef45f98a&_wpnonce=fea460b0a7 to http://demo.edublink.co/product-category/book/?removed_item=1
+15:36:26	Warning: 	Found for https://demo.edublink.co/cart/?remove_item=3dba880b99f7157c9f362be445a56493&_wpnonce=fea460b0a7
+15:36:26	Warning: 	File has moved from https://demo.edublink.co/cart/?remove_item=3dba880b99f7157c9f362be445a56493&_wpnonce=fea460b0a7 to http://demo.edublink.co/product-category/book/?removed_item=1
+15:36:57	Warning: 	Moved Permanently for https://demo.edublink.co/product-category/book/page/1/
+15:36:57	Warning: 	File has moved from https://demo.edublink.co/product-category/book/page/1/ to https://demo.edublink.co/product-category/book/
+15:37:00	Warning: 	Moved Permanently for https://demo.edublink.co/product-tag/business-administration/page/1/
+15:37:00	Warning: 	File has moved from https://demo.edublink.co/product-tag/business-administration/page/1/ to https://demo.edublink.co/product-tag/business-administration/
+15:37:00	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15113
+15:37:00	Warning: 	File has moved from https://demo.edublink.co/?p=15113 to https://demo.edublink.co/zoom-meetings/global-education-fall-meeting-for-everyone/
+15:37:00	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15109
+15:37:00	Warning: 	File has moved from https://demo.edublink.co/?p=15109 to https://demo.edublink.co/zoom-meetings/higher-study-in-abroad/
+15:37:05	Warning: 	Moved Permanently for https://demo.edublink.co/instructor/uetelew57nrop/page/1/
+15:37:05	Warning: 	File has moved from https://demo.edublink.co/instructor/uetelew57nrop/page/1/ to https://demo.edublink.co/instructor/uetelew57nrop/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/instructor/borisjohn490/page/1/
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/instructor/borisjohn490/page/1/ to https://demo.edublink.co/instructor/borisjohn490/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/instructor/steve/page/1/
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/instructor/steve/page/1/ to https://demo.edublink.co/instructor/steve/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15388
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15388 to https://demo.edublink.co/events/our-excellence-partner-france-pavilion/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15390
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15390 to https://demo.edublink.co/events/a-night-of-words-and-wonder/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15391
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15391 to https://demo.edublink.co/events/mastering-the-art-of-photography/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15393
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15393 to https://demo.edublink.co/events/navigating-the-online-art-landscape/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15395
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15395 to https://demo.edublink.co/events/online-artistry-where-pixels-meet-passion/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15396
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15396 to https://demo.edublink.co/events/flavors-unleashed-taste-bud-adventure/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15403
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15403 to https://demo.edublink.co/events/tasty-transformations-culinaryshowcase/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15401
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15401 to https://demo.edublink.co/events/music-and-movement-adventure-in-sing-along-safari/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15398
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15398 to https://demo.edublink.co/events/knife-skills-unwrapped-precision-in-the-kitchen/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15399
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15399 to https://demo.edublink.co/events/fire-feast-grilling-mastery-unleashed/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15400
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15400 to https://demo.edublink.co/events/exploring-the-outdoors-together-in-nature-quest/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15405
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15405 to https://demo.edublink.co/events/wellness-bites-healthy-food-festival/
+15:37:08	Warning: 	Moved Permanently for https://demo.edublink.co/?p=15406
+15:37:08	Warning: 	File has moved from https://demo.edublink.co/?p=15406 to https://demo.edublink.co/events/energize-your-plate-wellness-seminar/
+15:37:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=845ce31b9cf79c9aad515d0209881a3c&_wpnonce=fea460b0a7
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=845ce31b9cf79c9aad515d0209881a3c&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882
+15:37:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=0bbfd30c6d7efe2fff86061e79c010db&_wpnonce=fea460b0a7
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=0bbfd30c6d7efe2fff86061e79c010db&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882
+15:37:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=a3cdf7cabc49ea4612b126ae2a30ecbf&_wpnonce=fea460b0a7
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=a3cdf7cabc49ea4612b126ae2a30ecbf&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882
+15:37:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=c131278e28b4703f6466a4bdf0fa863e&_wpnonce=fea460b0a7
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=c131278e28b4703f6466a4bdf0fa863e&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882
+15:37:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=b72809a20c3f308b5631168203e1c5ec&_wpnonce=fea460b0a7
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=b72809a20c3f308b5631168203e1c5ec&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882
+15:37:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=a122a3441dd463a8360ca951ef45f98a&_wpnonce=fea460b0a7
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=a122a3441dd463a8360ca951ef45f98a&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882
+15:37:19	Warning: 	Found for https://demo.edublink.co/cart/?undo_item=3dba880b99f7157c9f362be445a56493&_wpnonce=fea460b0a7
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/cart/?undo_item=3dba880b99f7157c9f362be445a56493&_wpnonce=fea460b0a7 to http://demo.edublink.co/cart/?remove_item=da353f402faf6cf475d4abd1450b0882
+15:37:19	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19479
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/?p=19479 to https://demo.edublink.co/events/a-health-and-wellness-experience/
+15:37:19	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19477
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/?p=19477 to https://demo.edublink.co/events/a-health-and-happiness-workshop/
+15:37:19	Warning: 	Moved Permanently for https://demo.edublink.co/?p=19478
+15:37:19	Warning: 	File has moved from https://demo.edublink.co/?p=19478 to https://demo.edublink.co/events/your-roadmap-to-a-vibrant-life/
+15:37:24	Warning: 	Moved Permanently for https://demo.edublink.co/shop/page/1/?removed_item=1
+15:37:24	Warning: 	File has moved from https://demo.edublink.co/shop/page/1/?removed_item=1 to https://demo.edublink.co/shop/?removed_item=1
+15:37:27	Warning: 	Moved Permanently for https://demo.edublink.co/product-category/book/page/1/?removed_item=1
+15:37:27	Warning: 	File has moved from https://demo.edublink.co/product-category/book/page/1/?removed_item=1 to https://demo.edublink.co/product-category/book/?removed_item=1
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 minutes 38 seconds : 2597 links scanned, 2350 files written (291245875 bytes overall) [108960247 bytes received at 57407 bytes/sec], 249740576 bytes transferred using HTTP compression in 1639 files, ratio 25%, 6.3 requests per connection
+(11 errors, 469 warnings, 0 messages)
